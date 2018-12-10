@@ -30,7 +30,7 @@ public class GameMap {
                 nbPlayer = 0;
             }
         }
-        System.out.println("Vous avez bien selectionné votre nombre de joueur. Veuilelz maintenant renseigner le pseudonyme de chacun d'entre eux.");
+        System.out.println("Vous avez bien selectionné votre nombre de joueur. Veuillez maintenant renseigner le pseudonyme de chacun d'entre eux.");
         int playerNumber = 0;
         int next = 0;
         String test;
